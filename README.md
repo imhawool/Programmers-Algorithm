@@ -50,7 +50,7 @@
 * [순위검색.java](Lv2/순위검색.java)
 * [숫자의표현.java](Lv2/숫자의표현.java)
 * [스킬트리.java](Lv2/스킬트리.java)
-* [영어 끝말잇기.java] (Lv2/영어 끝말잇기.java)
+* [영어 끝말잇기.java] (Lv2/영어 끝말잇기.java )
 * [예상대진표.java](Lv2/예상대진표.java)
 * [오픈채팅방.java](Lv2/오픈채팅방.java)
 * [올바른괄호.java](Lv2/올바른괄호.java)
